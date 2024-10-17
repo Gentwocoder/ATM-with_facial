@@ -1,0 +1,9 @@
+bcrypt==4.2.0
+cffi==1.17.1
+cryptography==43.0.1
+numpy==2.1.1
+opencv-python==4.10.0.84
+pillow==10.4.0
+pycparser==2.22
+pyserial==3.5
+python-decouple==3.8
